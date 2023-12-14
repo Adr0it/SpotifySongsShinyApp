@@ -1,0 +1,16 @@
+## Author
+
+- **Name:** Ihor
+
+## Purpose
+
+This application is meant to characterize and visualize the musical composition of songs found on Spotify. You can see the makeup of individual songs or analyze them as a group.
+
+## Data
+
+The data was downloaded from Kaggle. The owner used the Spotify API and created a data set for public use. Each song has attributes like danceability, energy, etc., and you can filter by artist and album. For more detailed information, visit the references below.
+
+## References
+
+- [30000 Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs)
+- [Spotify API Reference](https://developer.spotify.com/documentation/web-api/reference/get-audio-features)
